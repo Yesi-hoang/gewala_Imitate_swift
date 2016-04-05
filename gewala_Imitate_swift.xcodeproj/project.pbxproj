@@ -11,7 +11,6 @@
 		D49FC35D1CB34D3900658E12 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D49FC35C1CB34D3900658E12 /* ViewController.swift */; };
 		D49FC3601CB34D3900658E12 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D49FC35E1CB34D3900658E12 /* Main.storyboard */; };
 		D49FC3621CB34D3900658E12 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D49FC3611CB34D3900658E12 /* Assets.xcassets */; };
-		D49FC3651CB34D3900658E12 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D49FC3631CB34D3900658E12 /* LaunchScreen.storyboard */; };
 		D49FC3701CB34D3900658E12 /* gewala_Imitate_swiftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D49FC36F1CB34D3900658E12 /* gewala_Imitate_swiftTests.swift */; };
 		D49FC37B1CB34D3900658E12 /* gewala_Imitate_swiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D49FC37A1CB34D3900658E12 /* gewala_Imitate_swiftUITests.swift */; };
 /* End PBXBuildFile section */
@@ -39,7 +38,6 @@
 		D49FC35C1CB34D3900658E12 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		D49FC35F1CB34D3900658E12 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		D49FC3611CB34D3900658E12 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		D49FC3641CB34D3900658E12 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D49FC3661CB34D3900658E12 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D49FC36B1CB34D3900658E12 /* gewala_Imitate_swiftTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = gewala_Imitate_swiftTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D49FC36F1CB34D3900658E12 /* gewala_Imitate_swiftTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gewala_Imitate_swiftTests.swift; sourceTree = "<group>"; };
@@ -101,7 +99,6 @@
 				D49FC35C1CB34D3900658E12 /* ViewController.swift */,
 				D49FC35E1CB34D3900658E12 /* Main.storyboard */,
 				D49FC3611CB34D3900658E12 /* Assets.xcassets */,
-				D49FC3631CB34D3900658E12 /* LaunchScreen.storyboard */,
 				D49FC3661CB34D3900658E12 /* Info.plist */,
 			);
 			path = gewala_Imitate_swift;
@@ -229,7 +226,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D49FC3651CB34D3900658E12 /* LaunchScreen.storyboard in Resources */,
 				D49FC3621CB34D3900658E12 /* Assets.xcassets in Resources */,
 				D49FC3601CB34D3900658E12 /* Main.storyboard in Resources */,
 			);
@@ -299,14 +295,6 @@
 				D49FC35F1CB34D3900658E12 /* Base */,
 			);
 			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		D49FC3631CB34D3900658E12 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				D49FC3641CB34D3900658E12 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
